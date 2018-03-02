@@ -1,1 +1,414 @@
+.fixed{
+   position:fixed;
+}
+.top_0{
+    top:0px;
+}
+.top_0_point_5px{
+    top:0.5px;
+}
+.top_1px{
+    top:1px;
+}
+.top_10_percent{
+    top:10%;
+}
+.top_15_percent{
+    top:15%;
+}
+.top_20_percent{
+    top:20%;
+}
+.margin_vertical_0px{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+.margin_top_0px{
+    margin-top:0px;
+}
+.margin_bottom_0px{
+    margin-bottom:0px;
+}
+.margin_top_10px{
+    margin-top:10px;
+}
+.margin_top_20px{
+    margin-top:20px;
+}
+.margin_top_25px{
+    margin-top:25px;
+}
+.margin_top_30px{
+    margin-top:30px;
+}
+.margin_top_40px{
+    margin-top:40px;
+}
+.margin_bottom_40px{
+    margin-bottom:40px;
+}
+.margin_top_45px{
+    margin-top:45px;
+}
+.margin_top_60px{
+    margin-top:60px;
+}
+.margin_bottom_60px{
+    margin-bottom:60px;
+}
+.margin_top_80px{
+    margin-top:80px;
+}
+.margin_top_90px{
+    margin-top:90px;
+}
+.margin_top_100px{
+    margin-top:100px;
+}
+.margin_bottom_100px{
+    margin-bottom:100px;
+}
+.margin_bottom_200px{
+    margin-bottom:200px;
+}
 
+@media screen and (max-width: 991px){
+    .wheres_my_refund_adjust_bottom{
+        margin-bottom:200px;
+    }
+}
+@media screen and (min-width: 992px){
+    .wheres_my_refund_adjust_bottom{
+        margin-bottom:100px;
+    }
+}
+.margin_left_10_percent{
+    margin-left:10%;
+}
+.margin_left_and_right_100px{
+    margin-left:100px;
+    margin-right:100px;
+}
+.margin_left_and_right_40px{
+    margin-left:40px;
+    margin-right:40px;
+}
+.margin_left_0px_and_right_60px{
+    margin-left:0px;
+    margin-right:60px;
+}
+.margin_left_25px_and_right_40px{
+    margin-left:25px;
+    margin-right:40px;
+}
+.margin_left_40px_margin_right_100px{
+    margin-left:40px;
+    margin-right:100px;
+}
+margin_left_150px_and_right_40px{
+    margin-left:150px !important;
+    margin-right:40px !important;
+}
+.margin_left_40px{
+    margin-left:40px;
+}
+.margin_left_100px{
+    margin-left:100px;
+}
+.margin_left_200px{
+    margin-left:200px;
+}
+.padding_right_and_bottom_10px{
+    padding-right:10px;
+    padding-bottom:20px;
+}
+.width_100_percent{
+    width:100%;
+}
+.gray_font{
+    color:#8d8d8d;
+}
+.blue_font{
+    color:#3f70b2 !important;
+}
+.white_font{
+    color:#FFFFFF;
+}
+.black_font{
+    color:#000000;
+}
+.gray_background{
+    background-color:#8d8d8d;
+}
+.light_gray_background{
+    background-color:#EEEEEE;
+}
+.blue_background{
+    background-color:#3f70b2;
+}
+.white_background{
+    background-color:#FFFFFF;
+}
+.black_background{
+    background-color:#000000;
+}
+.gray_top_border_3px{
+    border-top:3px solid #8d8d8d;
+}
+.gray_bottom_border_3px{
+    border-bottom:3px solid #8d8d8d;
+}
+.gray_left_border_3px{
+    border-left:3px solid #8d8d8d;
+}
+.gray_right_border_3px{
+    border-right:3px solid #8d8d8d;
+}
+.blue_top_border_3px{
+    border-top:3px solid #3f70b2;
+}
+.blue_bottom_border_3px{
+    border-bottom:3px solid #3f70b2;
+}
+.blue_right_border_3px{
+    border-right:3px solid #3f70b2;
+}
+.blue_left_border_3px{
+    border-left:3px solid #3f70b2;
+}
+.z_index_2{
+    z-index:2;
+}
+.z_index_3{
+    z-index:3;
+}
+.z_index_4{
+    z-index:4;
+}
+.z_index_5{
+    z-index:5;
+}
+.z_index_6{
+    z-index:6;
+}
+.ubuntu_font{
+    font-family: 'Ubuntu', sans-serif;
+}
+.font_weight_bold{
+    font-weight:bold;
+}
+.top_links_font_size{
+    font-size:15px;
+    font-weight:bold;
+    margin-left:10px;
+}
+@media screen and (min-width: 768px) and (max-width: 991px){
+    .top_links_font_size{
+        font-size:15px;        
+        font-weight:normal;
+        margin-left:0px;
+    }
+}
+.position_absolute{
+    position:absolute;
+}
+.first_letter_accent,.font_size_150_percent{
+    font-size:150%;
+}
+.provided_services_holder{
+    padding-bottom:160px;
+}
+.top_links{
+    white-space:nowrap;
+    padding:10px;
+}
+.small_space{
+    font-size:5px;
+}
+.form-inline,.form-group{
+    display:block !important;
+    margin-bottom:40px !important;
+}
+.form-control{
+    border-top:0px;
+    border-left:0px;
+}
+.modal-content{
+    padding:15px !important;
+}
+.modal-title,.modal-body{
+    margin-left:20px !important;
+}
+.modal-footer{
+    margin-right:20px !important;
+}
+.close{
+    margin-right:20px !important;
+}
+#email_form_submit_button_case{
+    margin-bottom:100px !important;
+}
+[type="submit"]{
+    margin-right:160px;
+}
+textarea.form-control{
+    width:80% !important;
+    height:400px !important;
+}
+@media (max-width: 991px){
+    textarea.form-control{
+        height:250px !important;
+    }
+}
+.font_size_10px{
+    font-size:10px;
+}
+.font_size_20px{
+    font-size:20px;
+}
+html,body{
+    overflow-x:hidden;
+}
+div,img{
+    padding-right:0px !important;
+    padding-left:0px !important;
+}
+sup{
+    line-height:0px;
+}
+a,a:hover{
+    text-decoration:none;
+    border:none;
+}
+a:hover{
+}
+#heading_div,#heading_div_2,#heading_div_3,#heading_div_4{
+    padding-top:30px;
+    padding-bottom:30px;
+}
+#heading_div_2,#heading_div_3{
+    opacity:0.2;
+}
+#heading_div_2{
+    background-image:url('../images/ppts_pic_1_rotated.jpg');
+    background-size:cover;
+    background-position:center;
+}
+#first_background_image_div,#home_page_background,#about_us_page_background,#services_page_background,#services_page_background_2,#pricing_page_background,#pricing_page_background_2,#contact_us_page_background,#contact_us_page_background_2{
+    background-image:url('../images/ppts_pic_1_rotated.jpg');
+    background-size:cover;
+    background-position:center;
+    opacity:0.2;
+}
+#home_page_background,#about_us_page_background,#services_page_background,#services_page_background_2,#pricing_page_background,#pricing_page_background_2,#contact_us_page_background,#contact_us_page_background_2{
+    background-image:url('../images/tax_calculator.jpg');
+    opacity:0.5;
+}
+#about_us_page_background{
+    background-image:url('../images/income_tax_return_and_hourglass.jpg');
+}
+#services_page_background{
+    background-image:url('../images/tax_background_image.jpg');
+}
+#services_page_background_2{
+    background-image:url('../images/money_in_pockets.jpg');
+}
+#pricing_page_background{
+    background-image:url('../images/cents_and_1040.jpg');
+}
+#pricing_page_background_2{
+    background-image:url('../images/credit_cards_and_cash.jpg');
+    opacity:0.2;
+}
+#contact_us_page_background,#contact_us_page_background_2{
+    background-image:url('../images/calendar_image.png');
+    background-position:right bottom;
+    /*background-size:200% auto;*/
+    background-size:auto 100%;
+    background-repeat:no-repeat;
+    opacity:0.2;
+}
+#contact_us_page_background_2{
+    background-image:url('../images/bridge_the_digital_divide.jpg');
+}
+
+
+#motto,#subheading_1,#subheading_2{
+    margin-top:100px;
+    font-size:30px;
+}
+#motto_2{
+    margin-top:30px;
+    margin-bottom:100px;
+    font-size:25px;   
+}
+#subheading_1,#subheading_2{
+    margin-bottom:100px;
+}
+
+@media screen and (max-width: 1150px){
+    #motto{
+        font-size:25px;
+    }
+    #motto_2{
+        font-size:20px;
+    }
+}
+#logo,#logo_2,#logo_3{
+    visibility:hidden;
+}
+#intro_para,.unboxed_paras,.unboxed_paras_w_margin_top{
+    font-size:20px;
+}
+.unboxed_paras{
+    margin-top:0px;
+}
+.unboxed_paras_w_margin_top_w_fine_print{
+    font-size:12px;
+}
+.glyphicon-calendar,.glyphicon-stats,.glyphicon-knight,.glyphicon-search{
+    font-size:30px;
+}
+.glyphicon_circle{
+    padding:10px;
+}
+#left_of_irs_building_flipped{
+    border-top:none;
+}
+.animation_elements{
+    visibility:hidden;
+}
+@keyframes animation_appear_gradually {
+    from{
+        visibility:hidden;       
+    }
+    to{
+        visibility:visible;
+    }
+}
+.animation_elements{
+    animation-name: animation_appear_gradually;
+    animation-duration: 1s;
+    animation-fill-mode:forwards;
+}
+#element_1{
+    animation-delay:0.5s;
+}
+#element_2{
+    animation-delay:1.5s;
+}
+#element_3{
+    animation-delay:2.5s;
+}
+#element_4{
+    animation-delay:3.5s;
+}
+#footer_div{
+    visibility:hidden;
+}
+#top_links_md_para{
+    line-height:2.2;
+}
+.contact_us_display,.smth{
+    visibility:hidden;
+}
